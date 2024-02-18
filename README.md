@@ -1,1 +1,1 @@
-# Gupta97Sarthak-Capstone-IIITB-Instant-Health-Alert-System
+# Capstone-IIITB-Instant-Health-Alert-System
