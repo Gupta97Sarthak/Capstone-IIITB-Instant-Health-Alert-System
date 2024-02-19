@@ -6,11 +6,13 @@ The advent of IoT devices has digitised vital health data such as body temperatu
 
 This project will test your knowledge of the various tools related to data pipelining, which you learnt about throughout this course. The project revolves around **Apache Sqoop**, **Apache PySpark**, **Apache Kafka**, **Hive**, **HBase**, which are some of the most widely used tools in the industry.
 
-Your task in this project will be to build a solution to cater to the following requirements: 
-**Real-time alert notification system** - 
+Your task in this project will be to build a solution to cater to the following requirements:     
+
+**Real-time alert notification system** -    
 This use case will simulate the streaming vital data of patients and building of a data pipeline to monitor vital data to alert the subscribers in real-time based on reference data. If the vital information coming from the patient is out of the normal threshold range, an alert notification will have to be sent immediately to the registered Email-ID.
 
 ![image](https://github.com/Gupta97Sarthak/Gupta97Sarthak-Capstone-IIITB-Instant-Health-Alert-System/assets/160407982/5ac9ebd3-4be7-45dc-8d21-0d931500c2b9)
+
 
 Broadly, you will be performing the following tasks in this project:
 
